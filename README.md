@@ -1,4 +1,4 @@
-# JavaScript
+# <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
 JavaScript é uma linguagem de programação versátil, amplamente utilizada para desenvolver aplicações web, tanto no lado do cliente quanto no servidor. Este repositório tem como objetivo compartilhar conteúdos, exemplos e boas práticas relacionadas ao uso do JavaScript.
 
 # O QUE VOCÊ ENCONTRARÁ NESTE REPOSITÓRIO:
